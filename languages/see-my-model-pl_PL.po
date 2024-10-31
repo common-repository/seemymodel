@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-11-09 17:25+0100\n"
+"PO-Revision-Date: 2021-11-10 14:11+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Last-Translator: \n"
+"Language: pl\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: packages/woocommerce/seemymodel-woocommerce.php\n"
+
+#: packages/woocommerce/seemymodel-woocommerce.php:36
+msgid "None"
+msgstr "Brak"
+
+#: packages/woocommerce/seemymodel-woocommerce.php:47
+msgid "Product 3D Model"
+msgstr "Model 3D Produktu"
+
+#: packages/woocommerce/seemymodel-woocommerce.php:92
+msgid "3D View"
+msgstr "Widok 3D"
+
+#: options-page.php:18 options-page.php:29
+msgid "SeeMyModel settings"
+msgstr "Ustawienia SeeMyModel"
+
+#: options-page.php:38
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: options-page.php:40
+msgid "Log in"
+msgstr "Zaloguj"
+
+#: options-page.php:57
+msgid "Authorization"
+msgstr "Autoryzacja"
+
+#: options-page.php:64
+msgid "SeeMyModel user email"
+msgstr "Email użytkownika SeeMyModel"
+
+#: options-page.php:72
+msgid "SeeMyModel user password"
+msgstr "Hasło użytkownika SeeMyModel"
+
+#: options-page.php:141
+msgid "You are logged into seemymodel.com as user:"
+msgstr "Jesteś zalogowany do seemymodel.com jako użytkownik:"
+
+#: options-page.php:149
+msgid "You are not logged into seemymodel.com. Please fill forms below to log in."
+msgstr "Nie jesteś zalogowany do seemymodel.com. Wypełnij poniższy formularz, aby się zalogować."
+
+msgid "Unexpected error: %s"
+msgstr "Nieoczekiwany błąd: %s"
+
+msgid "Authorization error. <a href=\"options-general.php?page=seemymodel-options\" target=\"_blank\"> Click here </a> to log into your seemymodel.com account."
+msgstr "Błąd autoryzacji. <a href=\"options-general.php?page=seemymodel-options\" target=\"_blank\"> Kliknij tutaj </a> aby zalogować się do swojego konta seemymodel.com."
+
+msgid "Unexpected error: %1$s %2$s"
+msgstr "Nieoczekiwany błąd: %1$s %2$s"
+
+msgid "Content"
+msgstr "Zawartość"
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Server error"
+msgstr "Błąd serwera"
+
+msgid "Viewer Width"
+msgstr "Szerokość okna podglądu"
+
+msgid "Viewer Height"
+msgstr "Wysokość okna podglądu"
+
+msgid "Language"
+msgstr "Język"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Polish"
+msgstr "Polski"
+
+msgid "English"
+msgstr "Angielski"

@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "see-my-model/group-viewer",
+	"title": "See My Model Group Viewer",
+	"category": "widgets",
+	"icon": "images-alt",
+	"description": "Element to view group of 3d models uploaded to seemymodel.com",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "see-my-model",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

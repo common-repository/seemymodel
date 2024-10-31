@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "see-my-model/viewer",
+	"title": "See My Model Viewer",
+	"category": "widgets",
+	"icon": "format-image",
+	"description": "Element to view 3d models uploaded to seemymodel.com",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "see-my-model",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
